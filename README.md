@@ -23,3 +23,14 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Tugas
+
+- nomor 1 - buat halaman untuk menampilkan data user
+![Gambar](/public/screenshots/1.png)
+
+- nomor 2 - buat halaman untuk menampilkan data user sesuai dengan id yang dipilih
+![Gambar](/public/screenshots/2.png)
+
+- nomor 3 - buat halaman untuk menampilkan data cuaca
+![Gambar](/public/screenshots/3.png)
